@@ -62,10 +62,9 @@
 - 🏆 **Expertise:** Machine Learning, Deep Learning, Computer Vision, Generative AI, Multimodal Models, Model Optimization  
 - 📝 **Publications:** 20+ papers, 5 patents (2 granted, 3 pending)  
 - 🏅 **Highlights:**  
-  - 🚀 Developed scalable video summarization and semantic search systems  
-  - 🎯 Reduced false positives in motion alerts by 90%  
-  - ⚡ Led adoption of distributed ML pipelines at SimpliSafe  
-  - 🧑‍🔬 Built and published the TDFace database for emotion recognition research
+  - 🧑‍🔬 Over 8 years in both academic and industry settings, specializing in computer vision and machine learning.
+  - 🤖 Proficient in ML and DL techniques, focusing on object detection, model compression, and image restoration/segmentation.
+  - 💻 7+ years of coding experience with Python, along with expertise in Pytorch and TensorFlow.
 
 ---
 
