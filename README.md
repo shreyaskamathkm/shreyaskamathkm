@@ -57,5 +57,3 @@
   - Built and published the TDFace database for emotion recognition research
 
 ---
-
-Feel free to copy, edit, and update the links (replace `YOUR_GITHUB_USERNAME`, `YOUR_LINKEDIN`, and `YOUR_SCHOLAR_ID` with your actual handles/IDs). If you want to add more sections (like a project showcase or more fun facts), let me know!
