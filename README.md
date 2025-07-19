@@ -41,6 +41,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" alt="aws" />
+  <img src="assets/bedrock-color.svg" height="30" alt="bedrock" />
   <img src="assets/V51.png" height="30" alt="V51"/> 
 </p>
 
