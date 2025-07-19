@@ -46,14 +46,18 @@
 
 <h3 align="center">👨‍💻 About Me</h3>
 
-- 🧑‍💻 **Current Role:** Senior Computer Vision Engineer at SimpliSafe
-- 🏆 **Expertise:** Machine Learning, Deep Learning, Computer Vision, Generative AI, Multimodal Models, Model Optimization  
-- 📝 **Publications:** 20+ papers, 5 patents (2 granted, 3 pending)  
-- 🏅 **Highlights:**  
-  - 🧑‍🔬 Over 8 years in both academic and industry settings, specializing in computer vision and machine learning.
-  - 🤖 Proficient in ML and DL techniques, focusing on object detection, model compression, and image restoration/segmentation.
-  - 💻 7+ years of coding experience with Python, along with expertise in Pytorch and TensorFlow.
-
+<p align="center">
+  🚀 <b>Senior Computer Vision Engineer</b> at SimpliSafe<br>
+  🎓 <b>PhD in Electrical & Computer Engineering</b> (Tufts University)<br>
+  🌉 Based in Sunnyvale, CA<br>
+  <br>
+  🧠 <b>Expertise:</b> Machine Learning, Deep Learning, Computer Vision, Generative AI, Multimodal Models, Model Optimization<br>
+  🛠️ <b>Core Skills:</b> Object Detection, Model Compression, Image Restoration & Segmentation<br>
+  🐍 <b>Pythonista</b> with 7+ years of hands-on coding<br>
+  📚 <b>20+ publications</b> & <b>5 patents</b> (2 granted, 3 pending)<br>
+  🤝 <b>Industry & Academic Experience:</b> 8+ years across research and product teams<br>
+  🌱 <b>Lifelong learner</b> passionate about building impactful AI solutions
+</p>
 ---
 
 <p align="center">
