@@ -9,48 +9,42 @@
 
 ---
 
-<div align="center">
+<h3 align="center">🛠️ Tech Stack</h3>
 
-  <h3>🛠️ Tech Stack</h3>
+<h4 align="center">💻 Languages</h4>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="36" alt="matlab" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36" alt="c" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="cplusplus" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="36" alt="bash" />
+</p>
 
-  <table>
-    <tr>
-      <td align="center" valign="top">
-        <b>💻 Languages</b><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="python" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="36" alt="matlab" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36" alt="c" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="cplusplus" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="36" alt="bash" />
-      </td>
-      <td align="center" valign="top">
-        <b>📚 Libraries & Frameworks</b><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="36" alt="pytorch" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="36" alt="tensorflow" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="36" alt="keras" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="36" alt="opencv" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="36" alt="numpy" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="36" alt="pandas" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="36" alt="scikit-learn" />
-        <img src="assets/ray.png" height="36" alt="ray" />
-        <img src="assets/lightning-ai-seeklogo.png" height="36" alt="lightning ai" />
-        <img src="assets/onnx.png" height="24" alt="onnx" />
-      </td>
-      <td align="center" valign="top">
-        <b>🛠️ Tools & Platforms</b><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="docker" />
-        <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="36" alt="aws" />
-        <img src="assets/bedrock-color.svg" height="36" alt="bedrock" />
-        <img src="assets/V51.png" height="36" alt="V51"/>
-      </td>
-    </tr>
-  </table>
+<h4 align="center">📚 Libraries & Frameworks</h4>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="36" alt="pytorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="36" alt="tensorflow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="36" alt="keras" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="36" alt="opencv" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="36" alt="numpy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="36" alt="pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="36" alt="scikit-learn" />
+  <img src="assets/ray.png" height="36" alt="ray" />
+  <img src="assets/lightning-ai-seeklogo.png" height="36" alt="lightning ai" />
+  <img src="assets/onnx.png" height="24" alt="onnx" />
+</p>
 
-</div>
+<h4 align="center">🛠️ Tools & Platforms</h4>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="docker" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="36" alt="aws" />
+  <img src="assets/bedrock-color.svg" height="36" alt="bedrock" />
+  <img src="assets/V51.png" height="36" alt="V51"/>
+</p>
 
 ---
 
-### 👨‍💻 About Me
+<h3 align="center">👨‍💻 About Me</h3>
 
 - 🧑‍💻 **Current Role:** Senior Computer Vision Engineer at SimpliSafe
 - 🏆 **Expertise:** Machine Learning, Deep Learning, Computer Vision, Generative AI, Multimodal Models, Model Optimization  
