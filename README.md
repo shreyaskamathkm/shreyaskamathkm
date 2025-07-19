@@ -9,40 +9,44 @@
 
 ---
 
-### 🛠️ Tech Stack
+<div align="center">
 
-<table width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <b>💻 Languages</b><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="python" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="36" alt="matlab" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36" alt="c" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="cplusplus" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="36" alt="bash" />
-    </td>
-    <td align="center" width="34%">
-      <b>📚 Libraries & Frameworks</b><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="36" alt="pytorch" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="36" alt="tensorflow" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="36" alt="keras" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="36" alt="opencv" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="36" alt="numpy" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="36" alt="pandas" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="36" alt="scikit-learn" />
-      <img src="assets/ray.png" height="36" alt="ray" />
-      <img src="assets/lightning-ai-seeklogo.png" height="36" alt="lightning ai" />
-      <img src="assets/onnx.png" height="24" alt="onnx" />
-    </td>
-    <td align="center" width="33%">
-      <b>🛠️ Tools & Platforms</b><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="docker" />
-      <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="36" alt="aws" />
-      <img src="assets/bedrock-color.svg" height="36" alt="bedrock" />
-      <img src="assets/V51.png" height="36" alt="V51"/>
-    </td>
-  </tr>
-</table>
+  <h3>🛠️ Tech Stack</h3>
+
+  <table>
+    <tr>
+      <td align="center" valign="top">
+        <b>💻 Languages</b><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="python" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="36" alt="matlab" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36" alt="c" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="cplusplus" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="36" alt="bash" />
+      </td>
+      <td align="center" valign="top">
+        <b>📚 Libraries & Frameworks</b><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="36" alt="pytorch" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="36" alt="tensorflow" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="36" alt="keras" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="36" alt="opencv" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="36" alt="numpy" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="36" alt="pandas" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="36" alt="scikit-learn" />
+        <img src="assets/ray.png" height="36" alt="ray" />
+        <img src="assets/lightning-ai-seeklogo.png" height="36" alt="lightning ai" />
+        <img src="assets/onnx.png" height="24" alt="onnx" />
+      </td>
+      <td align="center" valign="top">
+        <b>🛠️ Tools & Platforms</b><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="docker" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="36" alt="aws" />
+        <img src="assets/bedrock-color.svg" height="36" alt="bedrock" />
+        <img src="assets/V51.png" height="36" alt="V51"/>
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 ---
 
